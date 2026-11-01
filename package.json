@@ -1,0 +1,22 @@
+{
+  "name": "adv-backend-basic-backend-project",
+  "version": "1.0.0",
+  "description": "Welcome to your first backend development activity. In this lab, you will build a functional web server from scratch using Node.js—without external frameworks like Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tito-21/adv-backend-basic-backend-project.git"
+  },
+  "keywords": [],
+  "author": "Tito SIBO",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tito-21/adv-backend-basic-backend-project/issues"
+  },
+  "homepage": "https://github.com/Tito-21/adv-backend-basic-backend-project#readme"
+}
